@@ -1,0 +1,22 @@
+{
+  "name": "appium-mobile-touchid",
+  "version": "1.0.0",
+  "description": "'For demo'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantha322/appium-mobile-touchid.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anantha322/appium-mobile-touchid/issues"
+  },
+  "homepage": "https://github.com/anantha322/appium-mobile-touchid#readme",
+  "dependencies": {
+    "wd": "^1.8.0"
+  }
+}
